@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Assignment 01 - Mobile Vision API</string>
+    <string name="detect_face">Detect face</string>
+    <string name="undetect_face">Undetect face</string>
+    <string name="choose_picture">Choose Picture</string>
+</resources>

@@ -1,1 +1,1 @@
-# Assignment01-MobileVisionAPI
+# Assignment 01 - Mobile Vision API
